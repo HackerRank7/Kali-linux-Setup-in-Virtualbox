@@ -93,7 +93,8 @@ Before starting the VM, adjust its hardware settings.
    ```
    Base Memory: 4096 MB
    ```
-<img width="1366" height="734" alt="Capture3" src="https://github.com/user-attachments/assets/58792116-7666-4890-b824-7b765cdb08a0" />
+<img width="903" height="611" alt="Capture3" src="https://github.com/user-attachments/assets/363f3d21-01e0-41d0-8be1-8182b9451e40" />
+
 
 ### Processor Allocation
 
@@ -108,7 +109,7 @@ Before starting the VM, adjust its hardware settings.
    ```
    CPU(s): 1
    ```
-<img width="1366" height="734" alt="Capture4" src="https://github.com/user-attachments/assets/39d42e83-1d59-4cc3-9851-9a3c8a0c3899" />
+<img width="941" height="665" alt="Capture4" src="https://github.com/user-attachments/assets/531e2722-f532-4c38-93c2-f5a96ec43567" />
 
 > Adjust memory and CPU allocation according to your system specifications.
 
@@ -129,7 +130,8 @@ Attached To: NAT Network
 Name: NatNetwork
 Promiscuous Mode: Allow All
 ```
-<img width="1366" height="735" alt="Capture5" src="https://github.com/user-attachments/assets/3ebe59a2-de36-48ae-ab39-3959dc3a3fb4" />
+<img width="949" height="696" alt="Capture5" src="https://github.com/user-attachments/assets/05c1a2a1-eed4-41d9-b78f-1e49f2a28ddc" />
+
 
 Click **OK** to save the changes.
 
@@ -147,7 +149,8 @@ Click **OK** to save the changes.
    Password: kali
    ```
 
----<img width="1366" height="765" alt="Capture 6JPG" src="https://github.com/user-attachments/assets/c211d518-cff3-4373-aaee-c690dff2658b" />
+<img width="633" height="377" alt="Capture 6JPG" src="https://github.com/user-attachments/assets/4116f383-5da0-4426-b997-a6825b366d15" />
+
 
 
 ## Step 7: Configure Network Settings Inside Kali
@@ -159,7 +162,8 @@ Click **OK** to save the changes.
    ```
    Edit Connections
    ```
-<img width="1348" height="648" alt="Capture6" src="https://github.com/user-attachments/assets/8571a7d9-dbd4-409d-9e89-5648a2a6b2e0" />
+<img width="513" height="331" alt="Capture6" src="https://github.com/user-attachments/assets/42a39de1-bdee-43d0-acd4-3f0404b1e269" />
+
 
 3. Open:
 
@@ -168,7 +172,7 @@ Click **OK** to save the changes.
    ```
 
 4. Click the settings icon.
-<img width="1351" height="644" alt="Capture7" src="https://github.com/user-attachments/assets/d859bd46-e723-4f61-b3dd-94409d74ac92" />
+<img width="727" height="491" alt="Capture7" src="https://github.com/user-attachments/assets/254fc662-8b32-46a4-8797-7efd8e5cc099" />
 
 ### IPv4 Configuration
 
@@ -257,4 +261,4 @@ Kali Linux 2026.2 has been successfully installed and configured on Oracle Virtu
 
 ---
 
-⚠️ This setup is intended for cybersecurity learning, penetration testing labs, and ethical hacking practice in a controlled environment.
+⚠️ This setup is intended for cybersecurity learning, penetration testing labs, and ethical hacking practice in a controlled    environment.
