@@ -63,9 +63,9 @@ Before starting, download and install the following tools on your Windows system
 3. Browse to the extracted Kali Linux folder.
 
 4. Select the Kali Linux virtual machine file.
+<img width="1061" height="554" alt="646988171-6d335d08-10c5-47aa-8965-8549cf63fc7f" src="https://github.com/user-attachments/assets/5172e972-dab3-438b-945b-e344fdb97ffd" />
 
 5. Click **Open**.
-<img width="1366" height="729" alt="Capture2" src="https://github.com/user-attachments/assets/6d335d08-10c5-47aa-8965-8549cf63fc7f" />
 
 The machine will now appear in VirtualBox.
 
