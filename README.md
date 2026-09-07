@@ -216,7 +216,7 @@ sudo nmcli connection up "Wired connection 1"
 
 These commands reload the network configuration and help establish connectivity.
 
----<img width="1350" height="650" alt="Capture10" src="https://github.com/user-attachments/assets/b99cd2e7-1e3b-4ff1-b7ac-90f00434996b" />
+<img width="1350" height="650" alt="Capture10" src="https://github.com/user-attachments/assets/b99cd2e7-1e3b-4ff1-b7ac-90f00434996b" />
 
 
 ## Step 9: Verify Internet Connectivity
